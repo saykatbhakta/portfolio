@@ -50,9 +50,10 @@ nav ul li a:hover{
 }
 .left img{
     /* margin:0 20px; */
-    filter: invert(90%);
-    height: 50px;
-    width: 50px;
+    /* filter: invert(90%); */
+    margin-top: 7.5px;
+    height: 40px;
+    width: 40px;
 }
 .left-st{
     padding:15px;
