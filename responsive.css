@@ -76,13 +76,7 @@
         }
     
     
-        /* -----------------------second section---------------------- */
-       
-        .secondSection .box{
-            display: flex;
-            flex-direction:column ;
-        }
-    
+
     /* <!-- -----------------------Skills Section----------------------- --> */
 
     .skill{
@@ -113,7 +107,9 @@
          }
          .reviewbox-row{
             margin-top: 2.5rem;
+            height: 87%;
         } 
+
     /* -----------------------footer section---------------------- */
         .inner-footer{
             display: flex;
