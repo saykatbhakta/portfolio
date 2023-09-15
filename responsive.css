@@ -89,9 +89,21 @@
         }
         .box-row{
             margin-top: 2.5rem;
-        }  
+        } 
+       
+        .layer p{
+            font-size: 0.8rem;
+            line-height: 1.5;
+            padding: 10px;
+        }
         .layer i{
+            width: 40px;
+           height: 40px;
             margin-top: 0.1rem;
+            /* margin-bottom: 2.2rem; */
+        }
+        .layer h4{
+            margin-top: 2rem;
         }
 
         
