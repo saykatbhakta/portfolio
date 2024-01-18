@@ -47,7 +47,7 @@ url: https://image-denoising-nlme.onrender.com/homes
    <br>
    Email: saykatbhakta05@gmail.com
    <br>
-   LinkedIn : https://www.linkedin.com/in/saykatbhakta/
+   Linkedin : https://www.linkedin.com/in/saykatbhakta/
 
 ## Website Link :
 url: https://saykatbhakta.github.io/portfolio/
