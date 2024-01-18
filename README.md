@@ -10,8 +10,7 @@
 
 # Projects
 ## Project 1: Wanderlust Holiday Homes & Apartment Rentals
-### Developed a dynamic Tourist Website allowing users to discover nearby Attractions, Hotels, and 
-Restaurants, as well as navigate to different locations using an interactive map. 
+### Developed a dynamic Tourist Website allowing users to discover nearby Attractions, Hotels, and Restaurants, as well as navigate to different locations using an interactive map. 
 
 #### Technologies used :
    1. HTML
@@ -26,6 +25,22 @@ Restaurants, as well as navigate to different locations using an interactive map
 
 ### Website Link :
 url: https://wanderlust-v2vu.onrender.com/listings
+
+## Project 2: Digital Image Denoising Technique 
+### Implemented image denoising algorithms using advanced signal processing techniques to enhance image quality and reduce noise. 
+
+#### Technologies used :
+   1. HTML
+   2. CSS
+   3. JAVASCRIPT
+   4. NODE.JS
+   5. EXPRESS.JS
+   6. MONGODB
+   7. EJS
+   8. BOOTSTRAP
+
+### Website Link :
+url: https://image-denoising-nlme.onrender.com/homes
 
 ## Author :
    Saykat Bhakta
